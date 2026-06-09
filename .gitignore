@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 dist/
 build/
+backend/cashflow.db
+backend/app/ml/saved_models/
